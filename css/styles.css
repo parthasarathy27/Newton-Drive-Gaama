@@ -98,9 +98,7 @@ body {
     transform: translateX(-50%);
     width: 70px;
     height: 120px;
-    background: linear-gradient(135deg, #f06, #f0f);
     border-radius: 12px;
-    box-shadow: 0 0 25px #f0f8;
     animation: pulseCar 1.5s infinite ease-in-out;
 }
 
